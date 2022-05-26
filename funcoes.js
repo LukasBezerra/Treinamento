@@ -51,4 +51,6 @@ function soma (num1 = 0 , num2 = 0){
         return num1 + num2;
     }
 }
-console.log(soma(0 ,3))
+console.log(soma(10 ,3))
+
+console.log (soma_numeros_pequenos(13 , 4));
